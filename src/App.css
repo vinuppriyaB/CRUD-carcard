@@ -1,0 +1,94 @@
+.navbar{
+    background-color: #960736;
+    color:white;
+    font-size: 20px;
+    height:60px;
+    display: flex;
+    align-items: center;
+   
+    padding-left: 50px;
+}
+Button{
+    font-size: 20px !important;
+    
+
+}
+.list-page{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    min-height:100vh;
+    width:100%;
+    background-color: rgb(235, 238, 241);
+   
+   row-gap:50px ;
+   padding:100px 0px;
+}
+.card{
+    border:1px solid #960736;
+    box-shadow: 5px 5px 5px #a73c5f;
+    
+     width:500px;
+}
+
+.car-pic{
+    
+    object-fit: cover;
+}
+.pic{
+    /* height="300" width="500" */
+    height:300px;
+    width:375px;
+}
+
+@media screen and (min-width:425px)
+{
+    .pic{
+       
+        height:300px;
+        width:425px;
+    }
+
+}
+@media screen and (min-width:512px)
+{
+    .pic{
+       
+        height:300px;
+        width:500px;
+    }
+
+}
+.car-detail{
+    
+   
+    padding:20px;
+}
+.name{
+    display: flex;
+    flex-direction: row;
+   
+     align-items: center;
+     font-size: 30px;
+     font-weight: bolder;
+     gap:7px;
+
+}
+.input_field{
+    display: flex;
+    flex-direction: column;
+   
+    gap:40px;
+    height: auto;
+    width:60%;
+    border:1px solid #960736;
+    box-shadow: 5px 5px 5px #a73c5f;
+    
+    margin:50px auto;
+    padding: 50px;
+
+}
+.bold{
+    font-weight:bold ;
+}

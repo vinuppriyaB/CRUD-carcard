@@ -1,0 +1,58 @@
+[
+    {
+        "company":"Hyundai",
+        "pic":"https://www.cnet.com/a/img/resize/078a65b6d022e4b96f4adab6e0bec8b566542e70/hub/2021/03/05/482061ec-7587-408c-9c32-4825c6a8dc16/2021-hyundai-elantra-sel-3.jpg?auto=webp&width=1092",
+        "model":"Elantra",
+        "price":"₹16 lakhs - ₹21.1 lakhs",
+        "engine":" 1493 cc",
+        "seater":"4",
+        "fueltank":"50 L",
+        "dimension":"4,620 mm L x 1,800 mm W x 1,465 mm H",
+        "fueleconomy":"14-23 km/l combined"
+    },
+    {
+        "company":"Hyundai",
+        "pic":"https://images.carandbike.com/car-images/large/hyundai/creta/hyundai-creta.jpg?v=58",
+        "model":"Creta",
+        "price":"₹10.2 lakhs - ₹17.9 lakhs",
+        "engine":"1493 cc",
+        "seater":"5",
+        "fueltank":"50 L",
+        "dimension":"4,300 mm L x 1,790 mm W x 1,620-1,635 mm H",
+        "fueleconomy":"17-21 km/l combined"
+    },
+    {
+        "company":"Ford",
+        "pic":"https://imgd.aeplcdn.com/1200x900/cw/ec/40395/Ford-EcoSport-Exterior-159280.jpg?wm=0",
+        "model":"EcoSport",
+        "price":"₹8.19 lakhs - ₹11.7 lakhs",
+        "engine":"1496 to 1498 cc",
+        "seater":"5",
+        "fueltank":"52 L",
+        "dimension":"3,998 mm L x 1,765 mm W x 1,647 mm H ",
+        "fueleconomy":"15-21 km/l combined"   
+    },
+    {
+        "company":"BMW",
+        "pic":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/p90324842-highres-the-new-bmw-3-series-1538491307.jpg",
+        "model":"3 Series",
+        "price":"52.48 - 54.90 Lakhs",
+        "engine":"1998 cc and 2998 cc",
+        "seater":"5",
+        "fueltank":"59 L",
+        "dimension":"4,709-4,713 mm L x 1,827 mm W x 1,435-1,440 mm H",
+        "fueleconomy":"12-20 km/l combined"   
+    },
+    {
+        "company":"Ferrari",
+        "pic":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ferrari-roma-119-1599666409.jpg?crop=0.651xw:0.488xh;0.0577xw,0.406xh&resize=1200:*",
+        "model":"Roma",
+        "price":"3.76 Crores",
+        "engine":"3855 cc",
+        "seater":"2",
+        "fueltank":"80 L",
+        "dimension":"4,656 mm L x 1,974 mm W x 1,301 mm H",
+        "fueleconomy":"8.93 kmpl"  
+    }
+    
+]
